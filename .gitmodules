@@ -1,3 +1,6 @@
 [submodule "override"]
 	path = override
 	url = https://github.com/lastore/override.git
+[submodule "screenshots"]
+	path = screenshots
+	url = https://github.com/lastore/screenshots.git
